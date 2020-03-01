@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(2171): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(2171): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(3771): warning C4793: 'cv::UMat::addref': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(3771): warning C4793: 	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\T450s\source\repos\Project1\x64\Debug\Project1.exe

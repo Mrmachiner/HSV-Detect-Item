@@ -392,11 +392,11 @@ private: System::Void btnDetect_Click(System::Object^ sender, System::EventArgs^
 		std::string unmanaged = msclr::interop::marshal_as<std::string>(txtPath->Text);
 		cv::VideoCapture cap(unmanaged);
 
-		cv::Scalar objlow_pink(0, 97, 0); //0, 84 ,0
-		cv::Scalar objhight_pink(179, 255, 255);
+		cv::Scalar objlow_pink(62, 0, 0); //0, 84 ,0 //(0, 97, 0);
+		cv::Scalar objhight_pink(153, 255, 255); // (179, 255, 255)
 
-		cv::Scalar objlow_black(0, 146, 0); // 8, 122 ,0
-		cv::Scalar objhight_black(179, 255, 255);
+		cv::Scalar objlow_black(62, 0, 0); // 8, 122 ,0 //(0, 146, 0);
+		cv::Scalar objhight_black(153, 255, 255); // (179, 255, 255);
 		cv::Mat frame;
 		while (1)
 		{

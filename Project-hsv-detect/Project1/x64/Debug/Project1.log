@@ -1,0 +1,58 @@
+﻿  MyForm.cpp
+  processing_img.cpp
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(271,51): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(271,51): warning C4244:         with
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(271,51): warning C4244:         [
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(271,51): warning C4244:             _Tp=int
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(271,51): warning C4244:         ]
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(272,51): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(272,51): warning C4244:         with
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(272,51): warning C4244:         [
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(272,51): warning C4244:             _Tp=int
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(272,51): warning C4244:         ]
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(289,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(299,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(303,27): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(303,27): warning C4244:         with
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(303,27): warning C4244:         [
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(303,27): warning C4244:             _Tp=int
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(303,27): warning C4244:         ]
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(304,27): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(304,27): warning C4244:         with
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(304,27): warning C4244:         [
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(304,27): warning C4244:             _Tp=int
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(304,27): warning C4244:         ]
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(323,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(324,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(340,14): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(340,14): warning C4244:         with
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(340,14): warning C4244:         [
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(340,14): warning C4244:             _Tp=int
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(340,14): warning C4244:         ]
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(341,14): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(341,14): warning C4244:         with
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(341,14): warning C4244:         [
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(341,14): warning C4244:             _Tp=int
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(341,14): warning C4244:         ]
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(342,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(345,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\Project1\processing_img.cpp(349,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(2171): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(2171): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(3771): warning C4793: 'cv::UMat::addref': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(3771): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(2171): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(2171): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(3771): warning C4793: 'cv::UMat::addref': function compiled as native:
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(3771): warning C4793: 	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\T450s\source\repos\HSV-Detect-Item\Project-hsv-detect\x64\Debug\Project1.exe
